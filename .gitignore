@@ -1,0 +1,11 @@
+.DS_Store
+
+CodeSamples/Pods/*
+
+*.pbxuser
+
+CodeSamples/CodeSamples.xcworkspace/xcuserdata
+
+CodeSamples/CodeSamples.xcodeproj/project.xcworkspace/xcuserdata
+
+CodeSamples/CodeSamples.xcodeproj/xcuserdata
