@@ -1,0 +1,474 @@
+/*
+  Localizable.strings
+  goose
+
+  Created by Jett Liu on 2021/9/8.
+  
+*/
+"about_us_upper" = "ABOUT US";
+"player" = "Player";
+"setting" = "Setting";
+"settings" = "Settings";
+"setting_upper" = "SETTING";
+"clear_cache" = "Clear cache";
+"feedback" = "Feedback";
+"send_btn_feedback_btn" = "Help and feedback";
+"feedback_page_title" = "Help and feedback";
+"feedback_userfeedback_title_1" = "Feedback";
+"feedback_faq_title_1" = "FAQ";
+"feedback_contactus_title_1" = "Contact Us";
+"contact_us_tips" = "If you need any help, contact us through the following channels:";
+"about_us" = "About us";
+"notice" = "Notice";
+"ensure_delete_desc" = "Are you sure you want to delete it?";
+"cancel_upper" = "CANCEL";
+"sure_btn" = "YES";
+"no" = "No";
+"yes" = "Yes";
+"rename" = "Rename";
+"insert_name" = "Insert name";
+"done" = "Done";
+"cancel" = "Cancel";
+"more_options" = "More options";
+"delete" = "Delete";
+"select_all" = "Select all";
+"delete_upper" = "DELETE";
+"playlist" = "Playlist";
+"create_playlist" = "Create playlist";
+"scan_qr_code_upper" = "SCAN QR CODE";
+"photo" = "Photo";
+"enter_link" = "Enter link";
+"import_upper" = "IMPORT";
+"enter_link_here" = "Enter link here";
+"import" = "Import";
+"add_links_to_import" = "Add links to import";
+"scan_qr_code_to_import" = "Scan QR code to import";
+"create_title" = "Create Title";
+"create_playlist_upper" = "CREATE PLAYLIST";
+"create_upper" = "CREATE";
+"feedback_upper" = "FEEDBACK";
+"write_here" = "Write here";
+"submit_upper" = "SUBMIT";
+"submit" = "Submit";
+"create_playlist_detail" = "1. To create a playlist, enter a video link or scan a QR code. If you choose the first option, click on \"Enter link here\", name the file and copy the link for the video to be automatically imported to the playlist. If you choose the second option, the file will be automatically imported to the playlist.\n2. To import more videos, click on the \"Add\" icon at the bottom-right corner.\n3. To create a folder inside your playlist, click on the \"Add folder\" icon at the upper-right corner. Once created, you will be able to import videos into it.\n4. To manage your playlist, click on the \"More\" icon at the right side of the file or folder.";
+"customer_service_email" = "Customer service email";
+"network_not_connect" = "Network connection failed, please check the network";
+"signal_poor_title" = "No signal";
+"no_signal_desc" = "No signal, Please try again or watch other channels";
+"video_loading" = "Loading…";
+"refresh_capitalized" = "Refresh";
+"check_play_address" = "Check if the  Play address is correct";
+"filename_existed" = "The file name already exists, please modify and submit";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"earlier" = "Earlier";
+"now" = "Now";
+"next" = "Next";
+"day" = "day";
+"days" = "days";
+"hour" = "hour";
+"hours" = "hours";
+"unlock_sensitive_content_tips" = "You've turned on sensitive content";
+"lock_sensitive_content_tips" = "Classificational channels have been correctly hidden from the channel list.";
+"lock_item_title" = "Block";
+"lock_title" = "Block";
+"lock_key_incorrect" = "Incorrect password";
+"lock_key_reset_hint" = "Password reset key found, you can reset password now!";
+"lock_key_saved" = "Set the lock password successfully, please remember your new password %@.";
+"set_sensitive_pwd_text" = "Please set 4 digits password to enter \"LOCK\" function, You can watch all the sensitive stuff";
+"input_sensitive_pwd_text" = "Please input 4 digits password to enter \"LOCK\" function, You can watch all the sensitive stuff";
+"id_login_tip2" = "Click on \"Log in\" after entering your user ID and password. If you forgot your password, click on \"Reset password\".";
+"phone_login_tip2" = "Click on \"Log in\" after entering your phone number and password. If you forgot your password, click on \"Reset password\".";
+"email_login_tip2" = "Click on \"Log in\" after entering your email address and password. If you forgot your password, click on \"Reset password\".";
+"welcome_title" = "Welcome to ${AppName}!";
+"welcome_remind" = "Enjoy 60 minutes of ${AppName} service!<br/>After that, sign up or directly enjoy an extra 7-day free trial.";
+"no_view_permission" = "You don't have access to this content";
+"set_pwd_for_uid" = "Set a password for your User ID";
+"feedback_title" = "Please select the problem you encountered and click to submit.";
+"feedback_submitting" = "Your feedback is being submitted. This process will finish soon.";
+"feedback_submitted_success" = "Your feedback has been successfully submitted. Thank you for helping us improve.";
+"feedback_click_often" = "Operation too frequent";
+"feedback_submit_question" = "Are you sure you want to submit this feedback?";
+"see_more" = "See more";
+"select_season" = "Select season";
+"story_synopsis" = "Synopsis";
+"all_episodes" = "All episodes";
+"episode" = "Episode";
+"filter" = "Filter";
+"reset" = "Reset";
+"sure" = "YES";
+"subtitle_setting" = "Subtitle settings";
+"subtitles" = "Subtitles";
+"language" = "Language";
+"font_size" = "Font Size";
+"more" = "More";
+"favirite" = "Favorite";
+"details" = "Details";
+"play_upper" = "PLAY";
+"no_result" = "No results";
+"search_remind" = "Try a different keyword and search again";
+"search" = "Search";
+"trailer" = "Trailer";
+"watch_now" = "Watch now";
+"rolestitile_caps" = "DIRECTOR AND CAST";
+"rolestitile" = "Director and cast";
+"more_like_this" = "More like this";
+"bind_account" = "Bind Account";
+"bind_info" = "Bind";
+"edit" = "Edit";
+"feedback" = "Feedback";
+"set_pwd_for_userid" = "Please set a password for your User ID";
+"account_reset_userid_password_hint" = "Set a new password";
+"id_set_pwd_tip" = "For the security of your account, we suggest that you bind account or set your password immediately.";
+"id_set_pwd_tip2" = "To keep your account safe, we highly recommend you set a password and answer all security questions.";
+"set_pwd_success" = "Password successfully set";
+"ignore" = "Ignore";
+"playback" = "Playback";
+"playing" = "Playing";
+"subscribe" = "Subscribe";
+"subscribed" = "Subscribed";
+"subscribe_content" = "Subscription successfully added";
+"subscribed_content" = "Subscription successfully cancelled";
+"confirm" = "Confirm";
+"home" = "Home";
+"live" = "Live TV";
+"resolution" = "Resolution";
+"speed" = "Speed";
+"zoom" = "Zoom";
+"guide" = "Guide";
+"profile" = "Profile";
+"vod" = "VOD";
+"top_channel_title" = "Channels for you";
+"top_program_title" = "TOP 10";
+"min_unit" = "min";
+"reset_pwd_title" = "Reset password";
+"input_id_hint" = "Please input your ID";
+"login" = "Log in";
+"or" = "or";
+"remember_pwd" = "Remember password";
+"set_pwd" = "Set password";
+"set_pwd_input_hint" = "Password";
+"set_new_pwd" = "New password";
+"reset_id_pwd_upper" = "RESET PASSWORD";
+"sign_up" = "Sign up";
+"reset_device_account" = "Reset device account";
+"login_with_device" = "Login with device";
+"login_with_device_upper" = "LOGIN WITH DEVICE";
+"login_type_email" = "Login with email";
+"login_type_phone" = "Login with phone";
+"login_type_uid" = "Login with user ID";
+"reset_device_account" = "Reset device account";
+"reset_device_desc" = "By resetting your device account, you will be granted a new user ID. Make sure to remember your current account and password in order to reestablish your information.";
+"agree_policy_text" = "By logging in, you agree with the";
+"terms_and_policy" = "Terms & Policy";
+"contract_user_agreement" = "User Agreement";
+"contract_private_policy" = "Privacy Policy";
+"contract_agree_and_log_in" = "Agree and log in";
+"contract_dialog_title" = "Agree with the latest Terms & Policy to continue";
+"contract_disagree" = "I disagree";
+"contract_pop_view_tips" = "Scroll to the bottom and click on \"Agree and log in\"";
+"other_login_methods" = "Use a different login method";
+"account_verification_code_send" = "Send Code";
+"already_a_member" = "Already a member?";
+"create_a_new_account" = "Create account";
+"log_in" = "Log in";
+"bind_next_step_btn" = "Next";
+"bind_info_tips_desc" = "After binding your account, your user ID password will be invalid. From now on, you'll need to use your new account info to log in.";
+"no_data" = "No data";
+"no_infomation" = "No available information";
+"refresh_and_try" = "Refresh and try again";
+"has_been_refresh" = "Has been refreshed";
+"email_has_been_bound" = "This email has been bound, Please ues a new email address";
+"phone_has_been_bound" = "This phone number has been bound, Please ues a new phone number";
+"bind_to_email" = "BIND TO EMAIL";
+"bind_to_phone" = "BIND TO PHONE";
+"user_id_upper" = "USER ID";
+"user_id_wrong_format" = "Wrong format";
+"user_id_not_set_pwd" = "The user ID have not set password, please go to the original device to set a password and then log in";
+"user_id_not_set_ans" = "No security questions have been set for your user ID, please reset your password by email/mobile";
+"email_upper" = "EMAIL";
+"phone_upper" = "PHONE";
+"account_email_account" = "Email";
+"account_phone_account" = "Phone number";
+"account_user_id_account" = "User ID";
+"email_normal_register_remind" = "Enter your email address and click on \"Send code\". Find the 4-digit verification code in your inbox and use it to reset your password.</font>";
+"phone_normal_register_remind" = "Enter your phone number and click on \"Send code\". You will receive an SMS with a 4-digit verification code to reset your password.";
+"email_reset_password_remind" = "Enter your email address and click on \"Send code\". Find the 4-digit verification code in your inbox and use it to reset your password. If you face any problem, please contact <font color='#f793fa'><u>${Email}</u></font>.";
+"phone_reset_password_remind" = "Enter your phone number and click on \"Send code\". You will receive an SMS with a 4-digit verification code to reset your password. If you face any problem, please contact <font color='#f793fa'><u>${Email}</u></font>.";
+"skip" = "Skip";
+"cancel_account" = "Delete account";
+"cancel_account_remind" = "This action is permanent and will delete all your account data, including remaning valid days, history and favorites. Are you sure you want to continue? ";
+"vod_settings" = "VOD Settings";
+"auto_play" = "Auto Play";
+"autoplay_episode" = "Autoplay Episode";
+"subtitle_language" = "Subtitle Language";
+"audio_language" = "Audio Language";
+"video_resolution" = "Video Resolution";
+"network_configuration" = "Network Configuration";
+"play_with_mobile_data" = "Play with mobile data";
+"sure_use_mobile_data_remind" = "Are you sure you want to play videos with mobile data?";
+"settings_upper" = "SETTINGS";
+"live_settings" = "Live Settings";
+"system_settings" = "System Settings";
+"default_language" = "Default Language";
+"change_language_desc" = "Changes will take effect after restarting the app";
+"change_language_remind" = "Are you sure you want to change our default language? Changes will take effect after restarting the device.";
+"btn_title_ok" = "OK";
+"retry" = "Retry";
+"history_upper" = "HISTORY";
+"favorite_upper" = "FAVORITES";
+"subscribe_upper" = "SUBSCRIBE";
+"all_upper" = "ALL";
+"info_tip_1" = "Website: ${Website}<br/> Email: ${Email} (Quickly Answers)<br/>";
+"info_tip_2" = "In order to solve problem more precisely, please follow the steps:<br/><br/>1.Take a photo or video documenting the situation.<br/><br/>2.Send the photo, video and MAC information to customer service.";
+"log_out" = "Log out";
+"log_out_desc" = "Are you sure you want to leave your account?";
+"history" = "History";
+"favorite" = "Favorite";
+"subscriptions" = "Subscriptions";
+"version" = "Version";
+"select_date" = "Select Date";
+"select_channel" = "Select Channel";
+"today_lowercase" = "today";
+"useing_mobile_data_remind" = "You are playing this video with mobile data";
+"play_by_mobile_data" = "Play with Mobile Data";
+"verification_code_hint" = "Verification code";
+"select_answer_hint" = "Select an option";
+"categories" = "Categories";
+"subscribe_switch" = "You have already subscribed program '%@' at '%@', do you want to change it to this program '%@'?";
+"born" = "Date of birth:";
+"birthplace" = "Place of birth:";
+"biography" = "Biography:";
+"nationality" = "Country/Region:";
+"movies" = "Movies";
+"tv_shows" = "TV shows";
+"init_env" = "Initializing…";
+"add_favorite" = "Add Favorite Successful!";
+"cancel_favorite" = "Cancel Favorite Successful!";
+"force_logout_remind" = "Your account is already logged in on another device. Choose if you want to log in on this device or exit.";
+"exit" = "Exit";
+"profile_notification" = "NOTIFICATIONS";
+"no_notifications" = "No notifications";
+"personal_information" = "PERSONAL INFORMATION";
+"nick_name" = "Name";
+"gender" = "Gender";
+"birthday" = "Date of birth";
+"save" = "Save";
+"select_gender" = "Select a gender";
+"female" = "Female";
+"male" = "Male";
+"secrecy" = "Prefer not to tell";
+"save_personal_info_sucess" = "Information successfully saved";
+"save_personal_info_fail" = "Failed to save information";
+"nickname_hint" = "Please enter a nickname";
+"gender_hint" = "Please select gender";
+"birthday_hint" = "Please select a birthday";
+"bind_info" = "Bind";
+"program_current" = "Now:";
+"program_next" = "Next:";
+"catchup_finished_hint" = "The program you chose has finished. Do you want to watch the following program or to return to EPG?";
+"catchup_exit_hint" = "Are you sure you want to exit Playback?";
+"catchup_be_block_hint" = "Playback is currently not available for this content";
+"return" = "Return";
+"continue" = "Continue";
+"playback_no_source" = "No playback source available";
+"error_message" = "Error message:";
+"catchup_play_error" = "Playback failed. Try again later or click on \"Cancel\" to watch other programs.";
+"skip_guide" = "Skip guide";
+"epg_open_title" = "EPG Channel";
+"epg_open_content" = "Click here to see the channel guide";
+"see_all_epg_title" = "EPG";
+"see_all_epg_content" = "Click here to see all the EPG information";
+"adjust_brightness" = "Adjust brightness";
+"adjust_brightness_detail" = "Drag your finger upwards/downwards over the screen’s left side to adjust brightness.";
+"switch_channel" = "Switch channels";
+"switch_channel_detail" = "Drag your finger upwards/downwards over the middle of the screen to switch channels.";
+"adjust_volum" = "Adjust volume";
+"adjust_volum_detail" = "Drag your finger upwards/downwards over the screen’s right side to adjust volume.";
+"send_verify_suc" = "Verification code sent";
+"login_send_code_picker_title" = "Send code via";
+"login_send_code_picker_phone" = "Phone Number";
+"login_send_code_picker_whatsapp" = "WhatsApp";
+
+"epg_program" = "Program: ";
+"epg_duration" = "Duration: ";
+"epg_description" = "Description:";
+"epg_date" = "Date:";
+
+"c_ui_epg_remind_time" = "%d h remaining";
+"c_ui_epg_expired_hint" = "This content is no longer available. Pick another one.";
+"c_ui_epg_not_online_hint" = "This program is not yet available";
+
+"network_diagnosis" = "Network Diagnosis";
+
+"network_internet_connection" = "Internet connection";
+
+"network_delay" = "Network delay";
+
+"network_re_diagnosis" = "Re-diagnosis";
+
+"network_connected_to_WIFI" = "Connected to WIFI:";
+
+"network_trace_route_log" = "Trace route log";
+
+"network_feedback_note" = "If you have usage problems such as page or video loading failures, you can perform network diagnosis and send us the diagnosis results";
+
+"network_internet_speed" = "Internet speed";
+
+"network_use_mobile_data" = "Use mobile data";
+
+"network_feedback_success" = "Feedback Success";
+
+"network_feedback_failed" = "Feedback Failed, Please try again";
+
+"network_no_net_note" = "No available networks were detected. Check your connection.";
+
+"network_feedback_submit" = "Feedback submitting";
+
+"network_upload_speed" = "Upload Speed:";      // 单位Mbps
+"network_download_speed" = "Download Speed:";  // 单位Mbps
+
+"network_normal" = "Normal";
+
+"network_slow" = "Slow";
+
+"profile_menu_kids_mode" = "Kids Mode";
+
+"kidsmode_setting" = "Kids Mode Settings";
+
+"kids_mode_set_pwd_hint" = "Set a 4-digit PIN to enable Kids Mode. After enabling the function, only content for children will be displayed.";
+"kidsmode_enter_pin" = "Enter security PIN";
+"kidsmode_set_pin" = "Set security PIN";
+"kidsmode_enter_kidsmode" = "Enable Kids Mode";
+"kids_mode_enable_toast" = "You have enabled Kids Mode. Now, only content for children will be displayed.";
+"kids_mode_leave" = "Disable Kids Mode";
+
+"kids_mode_disable_hint" = "Enter your security PIN to disable Kids Mode";
+
+"kids_mode_enter_false_toast" = "Wrong security PIN";
+"kids_mode_reset_pwd_false_toast" = "Wrong current security PIN";
+"kids_mode_reset_pwd_hint1" = "Enter current 4-digit security PIN";
+"kids_mode_reset_pwd_hint2" = "Set new 4-digit security PIN";
+
+"kids_mode_reset_remind" = "Forgot your security PIN? Contact your service provider to reset it or uninstall and reinstall the app.";
+"kids_mode_disabled_toast" = "Kids Mode disabled";
+
+"kidsmode_forgot_pin_tips" = "Forgot your security PIN? Contact your service provider to reset it or uninstall and reinstall the app.";
+"kidsmode_logout_enter_pin" = "Kids Mode enabled. Enter your security PIN before logging out.";
+"kidsmode_resetpwd_succ_tips" = "Kids Mode security PIN successfully reset";
+"kidsmode_reset_pin" = "Reset security PIN";
+
+"vod_can_not_play_hint" = "This stream cannot be played, \nPlease try again or play other stream";
+"btn_try_again" = "Try again";
+"kids_mode_log_out_toast" = "Kids Mode enabled. Enter your security PIN before logging out.";
+"kids_mode_reset_pwd_success_toast" = "Kids Mode security PIN successfully reset";
+"kids_mode_reset_pwd_title" = "Reset security PIN";
+
+"try_prompt_content_1" = "Your service has expired. You can continue watching for %zd more minutes.";
+"try_prompt_content_2" = "Your service has expired. You can continue watching for %zd more seconds.";
+"try_prompt_content_vod" = "Your service has expired. You can continue accessing the content %zd more times with %zd minutes.";
+
+"audio" = "Audio";
+"search_tab_live" = "LIVE";
+"search_tab_program" = "PROGRAM";
+"search_tab_vod" = "VOD";
+"search_type_series" = "Series";
+"search_type_movie" = "Movie";
+"search_type_live" = "Live";
+"search_type_program" = "Program";
+
+"screen_scale_title" = "Screen";
+"screen_scale_fit" = "Fit";
+"screen_scale_stretch" = "Stretch";
+"screen_scale_fill" = "Fill";
+
+/* 内购 start ==================*/
+"play_service_agreement" = "PLAN SERVICE AGREEMENT";
+"purchase" = "PURCHASE";
+"buy_with" = "Buy with";
+"result" = "RESULT";
+"payment_successful" = "Payment Successful";
+"payment_successful_tips" = "The validity period of the package is being refreshed, please wait for 15s";
+"payment_failed_warning" = "Failed to refresh validity period";
+"payment_failed_warning_tips" = "Sorry, failed to refresh validity period, please check your order and contact your carrier";
+"check_order" = "Check Order";
+
+"payment_failed_tips" = "Website: ${Website}<br/> Email: ${Email} <br/> Facebook: ${Facebook} <br/> WhatsApp: ${WhatsApp} <br/>";
+
+"purchase_refresh_failed" = "Failed to refresh validity period";
+"purchase_order" = "Order";
+"purchase_product" = "Product";
+
+"purchase_retry_failed" = "Retry failed";
+
+"purchase_date" = "Purchase Date";
+"expiry_date" = "Expiry Date";
+"expired" = "Expired";
+"no_payment_method" = "No Payment Method";
+"my_plan" = "My Plan";
+"plan_expired_tips" = "Your paln is expired after 3days. Please renew in time to keep enjoying tv mobile.";
+"bind_info_upper" = "BIND INFO";
+"purchase_agreement" = "Purchasing means you agree to the";
+"purchase_agreement_link" = "Plan service agreement";
+"purchase_try_again" = "Pay Failed, please try again";
+
+/* 内购 end ====================*/
+
+"c_ui_timeshift_backlive" = "Back to live";
+"c_ui_timeshift_not_support" = "This channel does not support time shifting";
+"c_ui_timeshift_end" = "The live broadcast of this program has ended, do you want to return to the program that is currently playing";
+"c_ui_timeshift_exit" = "Are you sure back to live";
+
+"forget_password" = "Forget Password?";
+"input_password_tips" = "Input the password and submit it. After the verification is successful, you can cancel your account.";
+
+"search_result_program" = "PROGRAM(%@)";
+"search_result_live" = "LIVE(%@)";
+"search_result_vod" = "VOD(%@)";
+
+"personal_info_country" = "Countries & Regions";
+
+"season" = "Season";
+"season1" = "Season 1";
+
+"input_password_tips" = "Enter the password and submit. After the verification is successful, the account can be deleted";
+"delete_account_succ_tips" = "Account deleted successfully";
+
+"popular_search" = "Popular Searches";
+"popular_search_current" = "Current:";
+
+"account_settings" = "Account Settings";
+"change_password" = "Change password";
+"current_password_hint" = "Current password";
+"new_password_hint" = "New password";
+"change_pwd_success" = "Password successfully changed! Log in again to continue enjoying the service.";
+"current_pwd_incorrect" = "Current password is incorrect";
+"pwd_length_tips" = "at least 6 characters";
+"pwd_length_limit_tips" = "The password must be 6-16 characters in length";
+"no_pwd_notice" = "The user ID does not have a password set";
+
+
+/* 扫码登录 start ==================*/
+"scan_login_title" = "SCAN QR CODE TO LOGIN IN";
+"scan_login_tips_title" = "Login confirmation";
+"scan_login_tips_desc" = "For the safety of your account, please verify that you are the one currently operating it.";
+"scan_login_button_cancel" = "Cancel Login";
+"scan_login_failure" = "Login Failure";
+"scan_login_failure_tips" = "Failed to log in by scanning the QR code, please scan the QR code again";
+"scan_login_warn_alert" = "For the security of your account, please bind your email or mobile phone information before using the scan code to log in.";
+"scan_login_button_title" = "Log in to ${DeviceName}";
+/* 扫码登录 end ==================*/
+"scan_login_failure_tips" = "Failed to scan QR code to login, please scan code again";
+"scan_login_warn_alert" = "For the safety of your account and property. please bind your email or phone number and then scan the code to log in again";
+
+"go_login_tips_content" = "After logging in, you can explore more video content and get more permissions!";
+"signup_or_login" = "Log In / Sign Up";
+
+"device_had_bound_email" = "The current device account has been bound to an email address. Please use email to log in.";
+"device_had_bound_phone" = "The current device account has been bound to a mobile. Please use mobile to log in.";
+
+// player
+"small" = "Small";
+"middle" = "Middle";
+"large" = "Large";
+"play_episode" = "Episode";

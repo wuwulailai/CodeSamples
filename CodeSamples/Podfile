@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CodeSamples' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CodeSamples
+  pod 'SVGKit'
+  
+  target 'CodeSamplesTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'CodeSamplesUITests' do
+    # Pods for testing
+  end
+
+end
